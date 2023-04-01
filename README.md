@@ -91,8 +91,8 @@
   <br>
   <div>
     <a href="https://github.com/alesjnr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alesjnr&theme=ayu-mirage&show_icons=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesjnr&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api?username=alesjnr&theme=ayu-mirage&show_icons=true&count_private=true"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesjnr&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
   </div>
   <p>Soon will have more informations about personal, professional and study projects on GitHub.</p>
 </div>
